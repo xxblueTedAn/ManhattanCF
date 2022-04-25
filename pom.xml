@@ -10,7 +10,7 @@
     </parent>
     <groupId>com.xxblue</groupId>
     <artifactId>ManhattanCloudflare</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>1.0</version>
     <name>ManhattanCloudflare</name>
     <description>ManhattanCloudflare</description>
     <properties>
